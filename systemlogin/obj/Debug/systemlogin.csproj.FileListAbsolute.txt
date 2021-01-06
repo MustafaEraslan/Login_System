@@ -1,0 +1,31 @@
+c:\users\stajyer_meraslan\documents\visual studio 2015\Projects\systemlogin\systemlogin\bin\Debug\systemlogin.exe.config
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\obj\Debug\systemlogin.csprojResolveAssemblyReference.cache
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\obj\Debug\systemlogin.Form1.resources
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\obj\Debug\systemlogin.Properties.Resources.resources
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\obj\Debug\systemlogin.csproj.GenerateResource.Cache
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\bin\Debug\systemlogin.exe
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\bin\Debug\systemlogin.pdb
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\obj\Debug\systemlogin.exe
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\obj\Debug\systemlogin.pdb
+C:\Users\stajyer_meraslan\Documents\Visual Studio 2015\Projects\systemlogin\systemlogin\obj\Debug\systemlogin.Form2.resources
+E:\STAJ\systemlogin\systemlogin\bin\Debug\systemlogin.exe.config
+E:\STAJ\systemlogin\systemlogin\bin\Debug\systemlogin.exe
+E:\STAJ\systemlogin\systemlogin\bin\Debug\systemlogin.pdb
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.csprojAssemblyReference.cache
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.Form1.resources
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.Form2.resources
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.Properties.Resources.resources
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.csproj.GenerateResource.cache
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.csproj.CoreCompileInputs.cache
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.exe
+E:\STAJ\systemlogin\systemlogin\obj\Debug\systemlogin.pdb
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\bin\Debug\systemlogin.exe.config
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\obj\Debug\systemlogin.exe
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\obj\Debug\systemlogin.pdb
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\bin\Debug\systemlogin.exe
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\bin\Debug\systemlogin.pdb
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\obj\Debug\systemlogin.csprojResolveAssemblyReference.cache
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\obj\Debug\systemlogin.Form1.resources
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\obj\Debug\systemlogin.Form2.resources
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\obj\Debug\systemlogin.Properties.Resources.resources
+C:\Users\stajyer_meraslan\Desktop\systemlogin\systemlogin\obj\Debug\systemlogin.csproj.GenerateResource.Cache
